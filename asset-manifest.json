@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.95996865.chunk.css",
-    "main.js": "/static/js/main.49a94de7.chunk.js",
-    "main.js.map": "/static/js/main.49a94de7.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.da8cc8fa.chunk.js": "/static/js/2.da8cc8fa.chunk.js",
-    "static/js/2.da8cc8fa.chunk.js.map": "/static/js/2.da8cc8fa.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.b5502d8f34243d57800054884e64db0f.js": "/precache-manifest.b5502d8f34243d57800054884e64db0f.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.95996865.chunk.css.map": "/static/css/main.95996865.chunk.css.map",
-    "static/media/app.scss": "/static/media/fa-solid-900.ff8d9f8a.ttf",
-    "static/media/logo.png": "/static/media/logo.b65b75f7.png"
+    "main.css": "/jsonplaceholder-api-client/static/css/main.81949df5.chunk.css",
+    "main.js": "/jsonplaceholder-api-client/static/js/main.49a94de7.chunk.js",
+    "main.js.map": "/jsonplaceholder-api-client/static/js/main.49a94de7.chunk.js.map",
+    "runtime~main.js": "/jsonplaceholder-api-client/static/js/runtime~main.f070a9ca.js",
+    "runtime~main.js.map": "/jsonplaceholder-api-client/static/js/runtime~main.f070a9ca.js.map",
+    "static/js/2.da8cc8fa.chunk.js": "/jsonplaceholder-api-client/static/js/2.da8cc8fa.chunk.js",
+    "static/js/2.da8cc8fa.chunk.js.map": "/jsonplaceholder-api-client/static/js/2.da8cc8fa.chunk.js.map",
+    "index.html": "/jsonplaceholder-api-client/index.html",
+    "precache-manifest.7a44abc0a43152268226cecd1b3db658.js": "/jsonplaceholder-api-client/precache-manifest.7a44abc0a43152268226cecd1b3db658.js",
+    "service-worker.js": "/jsonplaceholder-api-client/service-worker.js",
+    "static/css/main.81949df5.chunk.css.map": "/jsonplaceholder-api-client/static/css/main.81949df5.chunk.css.map",
+    "static/media/app.scss": "/jsonplaceholder-api-client/static/media/fa-solid-900.ff8d9f8a.ttf",
+    "static/media/logo.png": "/jsonplaceholder-api-client/static/media/logo.b65b75f7.png"
   }
 }
