@@ -2,6 +2,7 @@
   "name": "react-todo",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://microdroid.github.io/jsonplaceholder-api-client",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.8.1",
     "axios": "^0.18.0",
